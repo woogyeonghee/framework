@@ -1,0 +1,15 @@
+{
+  "name": "04.calc",
+  "version": "1.0.0",
+  "main": "calc.js",
+  "dependencies": {
+    "nconf": "^0.11.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
