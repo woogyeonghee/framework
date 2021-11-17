@@ -7,8 +7,8 @@ const SerialPort = require('serialport');
 
 //push msg
 const FCM = require('fcm-node');
-const serverKey = 'AAAA3biyxVc:APA91bGX1a_APtyAtK1DoCDiZCmh6jSeFqM9lFfCdqqGLo4lkxKV889D7fF4grgJwnBtVY1lChzb40_WJLdicnEvADbVSDyIkxzwIM9_1ocw91Q75AybhOfiL8NBQ2lNoSMGJ4TJdqT0';
-const token = 'eX2oX7LtRTSyH9EQ1UDrsJ:APA91bFP7IVB8ek9sECMNakb_2v2YiK-ZnVXdUHG3XBKI69oiRHE9fcb_tjpJWnSa6V-whsF0yZTPGAMcQbNuo4pjDc502r80hBM4r94FhKMnfzMiCSEc21PXl8KCNvf5mPkmY71ULEV';
+const serverKey = 
+const token = 
 const fcm = new FCM(serverKey);
 
 const can_message = {
